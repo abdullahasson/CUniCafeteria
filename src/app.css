@@ -1,0 +1,11 @@
+header {
+  background-color: #111111;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+}
+
+header > div {
+  font-size: 30px;
+}
